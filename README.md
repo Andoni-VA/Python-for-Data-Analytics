@@ -1,5 +1,5 @@
 # Python-for-Data-Analytics
-Repositorio personal de aprendizaje en Python aplicado a ciencia de datos. Contiene desde conceptos básicos hasta implementaciones más avanzadas, mostrando la evolución del autor.
+Repositorio personal de aprendizaje en Python aplicado a ciencia de datos. Contiene desde conceptos básicos hasta implementaciones más avanzadas, mostrando la evolución del autor. Sobre todo, este ejercicio didáctico trata de trasladar mis conocimientos sobre el lenguaje de programación Fortran90 a Python, ya que el segundo es mucho más utilizado hoy en día.
 
 # 📊 Aprendizaje en Python para Ciencia de Datos
 
