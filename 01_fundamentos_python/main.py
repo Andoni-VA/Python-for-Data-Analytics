@@ -49,6 +49,7 @@ frutas.reverse() #imprime la lista al revés
 numeros = [1,2,3,4,5,6]
 cuadros = [x**2 for x in numeros if x % 2 == 0] #crea una nueva lista a partir de una anterior
 print(cuadros)
+n1,n2,n3,n4,n5,n6 = numeros #asigna a cada ni un elemento de la lista
 
 #TUPLAS (INMUTABLES)
 punto = (3,4,3)
@@ -87,3 +88,4 @@ cjt3.remove("Tomate") #Si no hay "Tomate" genera un error
 cjt3.discard("Tomate") #Si no hay "Tomate" no pasa nada
 
 cjt3.clear() #vacía toda la lista
+
