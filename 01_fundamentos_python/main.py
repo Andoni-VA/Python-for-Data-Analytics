@@ -17,6 +17,17 @@ else:
     print('Medianos en mi jardín')
     print('Come un poco de ', frutas[2]) #o frutas[-1]
 
+job_skill = 'SQL'
+application_skill = 'Python'
+years_experience = 5
+
+if job_skill == application_skill :
+    print("Skills match")
+elif years_experience >= 3 :
+    print("Enough experience, no SQL")
+else :
+    print("No skills or experience")
+
 #BUCLES
 contador = 0
 while contador < 5:
@@ -74,4 +85,5 @@ diferencia_simetrica = cjt1 ^ cjt2 #excluye los elementos repetidos: 1,2,4,5
 cjt3.add("Tomate")
 cjt3.remove("Tomate") #Si no hay "Tomate" genera un error
 cjt3.discard("Tomate") #Si no hay "Tomate" no pasa nada
+
 cjt3.clear() #vacía toda la lista
